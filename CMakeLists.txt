@@ -9,7 +9,8 @@ include_directories(src/)
 
 add_executable(	cpp-tests
 				src/main.cpp
+				src/test_0000.cpp
 				src/test_0001.cpp
 				src/test_0002.cpp
 				src/test_0003.cpp
-				src/test_template.cpp)
+                )
