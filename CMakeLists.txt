@@ -16,4 +16,7 @@ add_executable(	cpp-tests
 				src/test_0004.cpp
 				src/test_0005.cpp
 				src/test_0006.cpp
+				src/test_0007.cpp
+				src/test_0008.cpp
+				src/test_0009.cpp
                 )
