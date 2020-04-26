@@ -18,6 +18,10 @@ int main(int, char **)
 	tests.emplace_back(test_0007);
 	tests.emplace_back(test_0008);
 	tests.emplace_back(test_0009);
+	tests.emplace_back(test_0010);
+	tests.emplace_back(test_0011);
+	tests.emplace_back(test_0012);
+	tests.emplace_back(test_0013);
 
 	// -- RUN TESTS --
 	for(unsigned int i = 0; i < tests.size(); ++i)

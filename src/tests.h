@@ -10,3 +10,7 @@
 #include "test_0007.h"
 #include "test_0008.h"
 #include "test_0009.h"
+#include "test_0010.h"
+#include "test_0011.h"
+#include "test_0012.h"
+#include "test_0013.h"
