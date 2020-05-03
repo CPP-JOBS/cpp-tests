@@ -22,6 +22,7 @@ int main(int, char **)
 	tests.emplace_back(test_0011);
 	tests.emplace_back(test_0012);
 	tests.emplace_back(test_0013);
+	tests.emplace_back(test_0014);
 
 	// -- RUN TESTS --
 	for(unsigned int i = 0; i < tests.size(); ++i)
