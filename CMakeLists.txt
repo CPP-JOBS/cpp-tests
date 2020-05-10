@@ -24,4 +24,5 @@ add_executable(	cpp-tests
 				src/test_0012.cpp
 				src/test_0013.cpp
 				src/test_0014.cpp
+				src/test_0015.cpp
                 )
